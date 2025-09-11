@@ -38,11 +38,18 @@ I am preparing to apply for PhD programs with the goal of contributing to both t
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="50%">
 
 ### 🛰️ [Security Architecture for Satellite Communication Systems](https://github.com/FarshadRahimiGhashghaei/Security-Architecture-for-Satellite-Communication-Systems)
 - RSA + QKD + Multi-Factor Authentication for secure satellite comms  
-- 🌍 Bridging cybersecurity with space technology
+- Bridging cybersecurity with space technology
+
+</td>
+<td width="50%">
+
+### 🗄️ [Quantum-Resistant Multi-DB Password Manager](https://github.com/FarshadRahimiGhashghaei/QuantumPasswordManager) 🛡️🔑
+- AES-256-GCM + Argon2id encryption with unique nonce per entry for quantum-resistant password storage  
+- Supports multiple SQLite databases, each with its own master password, via an intuitive Tkinter GUI
 
 </td>
 </tr>
