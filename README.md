@@ -160,7 +160,7 @@ I am preparing to apply for PhD programs with the goal of contributing to both t
     <img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" alt="ORCID iD" height="16"/> ORCID
   </a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/farshadrahimighashghaei/">👔 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://researchonline.gcu.ac.uk/en/persons/farshad-rahimi-ghashghaei">📑 CV / Academic Profile</a>
+  <a href="https://farshadrahimighashghaei.github.io/files/CV.pdf">📑 CV / Academic Profile</a>
 </p>
 
 
